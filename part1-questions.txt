@@ -7,5 +7,7 @@ Ans: So far I have only created the branch but not have committed anything.
 Ans: Currently only 2 branches, Master and part1
 
 3- What is the ID of the commit in which the author added styles?
+Ans: commit 02c4216b257ed21e36ffc45980cffcfd79103e43
 
 4- How many lines of code were added between the second and the third commit?
+Ans: 7 lines of code were added.
